@@ -14,4 +14,4 @@
     <li><a href="https://github.com/Arnuma/frontEnd_projects/tree/project_1">Project - 1  ------  <img src="https://simpleicons.org/icons/javascript.svg" height="20"/><img src="https://simpleicons.org/icons/html5.svg" height="20"/></a></li>
    <li><a href="https://github.com/Arnuma/counter">Counter  ------  <img src="https://simpleicons.org/icons/javascript.svg" height="20"/><img src="https://simpleicons.org/icons/html5.svg" height="20"/></a></li>
   </ul>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnuma&theme=apprentice)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnuma&theme=apprentice">
