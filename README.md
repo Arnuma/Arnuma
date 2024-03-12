@@ -11,9 +11,8 @@
 <h2>Меню<h2>
 
   <ul list-style-type = "disk">
-    <li><a href="https://github.com/Arnuma/frontEnd_projects/tree/project_1">Project - 1  ------  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" /></a></li>
-   <li><a href="https://github.com/Arnuma/counter">Counter  ------ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" /></a></li>
-   <li><a href="https://github.com/Arnuma/color_flipp">Color Flipper  ------ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" /></a></li>
+   <li><a href="https://github.com/Arnuma/counter">Counter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" /></a></li>
+   <li><a href="https://github.com/Arnuma/color_flipp">Color Flipper<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" /></a></li>
    <li><a href="https://github.com/Arnuma/burger_verstka">Burger <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" /></a></li>
    <li><a href="https://github.com/Arnuma/marsy_proj">Marsy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" /></a></li>
   </ul>
