@@ -1,7 +1,7 @@
 <p align = "center"><img    src="https://simpleicons.org/icons/github.svg" height="120"/><p>
  <h2 align = "center">FullStack and FrontEnd Developer<h2>
  <p>Привет, меня зовут <b>Никита<b></p>
-  <span> В настоящий момент я занимаюсь FrontEnd разработкой, а так же обучением по напрвалению FullStack Development</span>
+  <span> В настоящий момент я занимаюсь FrontEnd разработкой, а так же обучением по направлению FullStack Development</span>
  <h2 align = "center">My stack:<h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40"/>&nbsp
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />&nbsp
